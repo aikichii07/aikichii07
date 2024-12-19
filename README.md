@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aikichii07@jel.net
+- 👋 Hi, I’m @aikichii07
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-aikichii07/aikichii07@jel.net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aikichii07/aikichii07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
